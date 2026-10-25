@@ -1,8 +1,8 @@
 # Saurabh Vishwakarma (Tech Shastri)
 ### MES & Application Engineer @ Avaada Electro | Python · SQL · FastAPI · Power BI · Industrial Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh_Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-vishwakarma-35a001221/)
-[![Gmail](https://img.shields.io/badge/Email-sv7578028%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sv7578028@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh_Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-vishwakarma-mes/)
+
 
 👋 Hi, I'm **Saurabh Vishwakarma** (`@techshastri`), an **Application / MES Engineer at Avaada Electro** (Nagpur, India) with a **B.Tech in Electronics & Communication Engineering (ECE)**. I specialize in **Manufacturing Execution Systems (MES)**, **process & workflow automation**, **SQL/Python data engineering**, and **FastAPI + AI developer tools**.
 
