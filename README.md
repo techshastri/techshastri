@@ -1,5 +1,5 @@
 # Saurabh Vishwakarma (Tech Shastri)
-### MES & Application Engineer @ Avaada Electro | Python · SQL · FastAPI · Power BI · Industrial Automation
+### MES & Application Engineer @ Avaada Electro | Industrial Automation · SQL · Python · Power BI 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh_Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-vishwakarma-mes/)
 
